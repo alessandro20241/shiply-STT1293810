@@ -1,7 +1,7 @@
 {
   "STT1293810": {
-    "status": "Versandvorbereitung",
-    "statusClass": "→ 65% Shiply blue bar",
+    "status": "Auf dem Transportweg",
+    "statusClass": "→ 85% green bar",
     "sender": "Erik Lerby, Lessingstraße 11, 18209 Bad Doberan, Deutschland",
     "receiver": "Frank Best, Am Sonnenberg 6, 55599 Wonsheim, Deutschland",
     "price": "12.900 €",
@@ -26,7 +26,7 @@
       }
     ],
     "orderDate": "14-03-2026",
-    "deliveryDate": "24-03-2026",
+    "deliveryDate": "27-03-2026",
     "pickup": {
       "street": "Lindenstraat 33",
       "postal_code": "18209",
